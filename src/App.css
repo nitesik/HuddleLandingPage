@@ -13,5 +13,7 @@
     background-image: url("./components/images/bg-mobile.svg");
     background-repeat: no-repeat;
     background-size: contain;
+    height: max-content;
+    width: 100%;
   }
 }
