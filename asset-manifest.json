@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/HuddleLandingPage/static/css/main.ab605cd2.css",
+    "main.css": "/HuddleLandingPage/static/css/main.ba739115.css",
     "main.js": "/HuddleLandingPage/static/js/main.a610b22a.js",
     "static/js/787.1be176f9.chunk.js": "/HuddleLandingPage/static/js/787.1be176f9.chunk.js",
     "static/media/illustration-mockups.svg": "/HuddleLandingPage/static/media/illustration-mockups.264994a533e88e58ad2a10b6ae6856e0.svg",
@@ -11,12 +11,12 @@
     "static/media/logo-twitter.svg": "/HuddleLandingPage/static/media/logo-twitter.62976c081dee9df5e089714a43f81083.svg",
     "static/media/logo-instagram.svg": "/HuddleLandingPage/static/media/logo-instagram.3f986527d185ed9ef19e215f7637f59f.svg",
     "static/media/logo-facebook.svg": "/HuddleLandingPage/static/media/logo-facebook.84318d1245b58f3c15c8fe7a85568b74.svg",
-    "main.ab605cd2.css.map": "/HuddleLandingPage/static/css/main.ab605cd2.css.map",
+    "main.ba739115.css.map": "/HuddleLandingPage/static/css/main.ba739115.css.map",
     "main.a610b22a.js.map": "/HuddleLandingPage/static/js/main.a610b22a.js.map",
     "787.1be176f9.chunk.js.map": "/HuddleLandingPage/static/js/787.1be176f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab605cd2.css",
+    "static/css/main.ba739115.css",
     "static/js/main.a610b22a.js"
   ]
 }
