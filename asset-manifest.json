@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HuddleLandingPage/static/css/main.ab605cd2.css",
+    "main.js": "/HuddleLandingPage/static/js/main.a610b22a.js",
+    "static/js/787.1be176f9.chunk.js": "/HuddleLandingPage/static/js/787.1be176f9.chunk.js",
+    "static/media/illustration-mockups.svg": "/HuddleLandingPage/static/media/illustration-mockups.264994a533e88e58ad2a10b6ae6856e0.svg",
+    "static/media/logo.svg": "/HuddleLandingPage/static/media/logo.2b3c07e4842b59538e846f54ed4b3891.svg",
+    "static/media/bg-desktop.svg": "/HuddleLandingPage/static/media/bg-desktop.6824779f0b32ead7a24a.svg",
+    "static/media/bg-mobile.svg": "/HuddleLandingPage/static/media/bg-mobile.41ba0830da0732cda559.svg",
+    "index.html": "/HuddleLandingPage/index.html",
+    "static/media/logo-twitter.svg": "/HuddleLandingPage/static/media/logo-twitter.62976c081dee9df5e089714a43f81083.svg",
+    "static/media/logo-instagram.svg": "/HuddleLandingPage/static/media/logo-instagram.3f986527d185ed9ef19e215f7637f59f.svg",
+    "static/media/logo-facebook.svg": "/HuddleLandingPage/static/media/logo-facebook.84318d1245b58f3c15c8fe7a85568b74.svg",
+    "main.ab605cd2.css.map": "/HuddleLandingPage/static/css/main.ab605cd2.css.map",
+    "main.a610b22a.js.map": "/HuddleLandingPage/static/js/main.a610b22a.js.map",
+    "787.1be176f9.chunk.js.map": "/HuddleLandingPage/static/js/787.1be176f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab605cd2.css",
+    "static/js/main.a610b22a.js"
+  ]
+}
